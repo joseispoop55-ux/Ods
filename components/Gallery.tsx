@@ -1,0 +1,1 @@
+// File removed by request to remove all pictures.

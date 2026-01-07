@@ -1,0 +1,7 @@
+{
+  "name": "O.D's Home Deeds",
+  "description": "Premium property care: Landscaping, Pressure Washing, and In-Home Deep Cleaning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
